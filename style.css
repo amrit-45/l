@@ -5,9 +5,20 @@ font-family: Arial, Helvetica, sans-serif;
     text-align: center;
 }
 }
+.cont{
+    padding:15px;
+    display: flex;
+    justify-content: flex-end;
+    justify-content: space-between;
+    align-items: center;
+}
 #first{
+    display: flex;
+    border-radius:25px;
+    
+    
     height:450px;
-    width:450px;
+    width:400px;
     border-radius: 10px;
 }
 nav{
@@ -49,5 +60,58 @@ nav a:hover{
     
 }
 nav li:first-child{
+  
     margin-right: auto;
+}
+.cont1{
+    padding:15px;
+    border-radius: 15px;
+    background-color: rgb(255, 255, 255);;
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(0, 0, 0);
+}
+#tit{
+    background-color:rgb(255, 255, 255)
+}
+#welcome{
+    background-color:rgb(255, 255, 255);
+}
+.no{
+    padding:25px;
+}
+.frontc{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.frontc #front1{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    
+}
+.condt{
+        padding:15px;
+    display: flex;
+    justify-content: flex-end;
+    justify-content: space-between;
+    align-items: center;
+}
+.condt1{
+        padding:15px;
+    border-radius: 15px;
+    background-color: rgb(255, 255, 255);;
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(0, 0, 0);
+}
+#tits{
+    background-color:rgb(255, 255, 255)
+}
+#about{
+    background-color:rgb(255, 255, 255);
+}
+.no2{
+    padding:25px;
 }
