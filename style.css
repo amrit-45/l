@@ -115,3 +115,28 @@ nav li:first-child{
 .no2{
     padding:25px;
 }
+.condo{
+     padding:15px;
+    display: flex;
+    justify-content: flex-end;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.condo1{
+     padding:15px;
+    border-radius: 15px;
+    background-color: rgb(255, 255, 255);;
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(0, 0, 0);
+}
+#tot{
+    background-color:rgb(255, 255, 255)
+}
+.Benefits{
+    background-color:rgb(255, 255, 255);
+}
+.no3{
+    padding:25px;
+}
